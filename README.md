@@ -1,5 +1,5 @@
 # seashell
-A custom shell by Onur Mavitaş and Bulut Boru
+A custom shell by Onur Mavitaş and Bulut Boru. This project was carried out as part of the Operating Systems class at Koc University.
 
 Seashell is a program that provides interface to the operating system by gathering input from the user and executing programs based on that input. It uses execv() system call to execute common Linux programs such as ls, mkdir, cp, mv, date, and gcc.
 
