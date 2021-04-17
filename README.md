@@ -7,7 +7,7 @@ Seashell has a custom "shortdir" command. The purpose is to reach the directory 
 
 "highlight is another custom seashell command. Highlight command takes a word-color pair and a text file as an  input. For each instance of the word appearing in the text file, the command prints the line where the word appears and highlights the word with that color. The colors can be one of the r (red), g (green), or b (blue) colors.
 
-<img width="860" alt="Screen Shot 2021-04-17 at 20 24 06" src="https://user-images.githubusercontent.com/51910678/115121407-40cfe800-9fbb-11eb-956b-d209c94e9811.png">
+<img width="923" alt="Screen Shot 2021-04-17 at 20 28 55" src="https://user-images.githubusercontent.com/51910678/115121472-999f8080-9fbb-11eb-8d61-9fdb13a54c35.png">
 
 
 "goodMorning" is another custom seashell command. This command takes a time specification and a music file as arguments and set an alarm to wake you up by playing the music using rhythmbox.
