@@ -12,6 +12,7 @@ Seashell has a custom "shortdir" command. The purpose is to reach the directory 
 "kdiff" is another command of seashell that can be used to compare two files in given paths. It has two modes. -a: the utility reads the input files as text files and compares them line-by-line. It prints the differing lines from each file and then prints the count of differing lines. -b: the utility reads the input files as binary files and compares them byte-by-byte. If two files are different, the utility prints a message about how many bytes are different between the files.
 
 "siri" is another command that takes a questions to get a weather report and start the chronometer.
+<img width="894" alt="Screen Shot 2021-04-17 at 20 11 24" src="https://user-images.githubusercontent.com/51910678/115121194-fdc14500-9fb9-11eb-9457-cc6a08c5448c.png">
  
 
 
