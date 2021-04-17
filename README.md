@@ -16,7 +16,8 @@ Seashell has a custom "shortdir" command. The purpose is to reach the directory 
 
 
 "siri" is another command that takes a questions to get a weather report and start the chronometer.
-<img width="894" alt="Screen Shot 2021-04-17 at 20 11 24" src="https://user-images.githubusercontent.com/51910678/115121194-fdc14500-9fb9-11eb-9457-cc6a08c5448c.png">
+<img width="896" alt="Screen Shot 2021-04-17 at 20 24 50" src="https://user-images.githubusercontent.com/51910678/115121372-141bd080-9fbb-11eb-85e4-a0dc83568e0e.png">
+
 <img width="894" alt="Screen Shot 2021-04-17 at 20 12 24" src="https://user-images.githubusercontent.com/51910678/115121222-21848b00-9fba-11eb-884e-15809d7b0648.png">
 
  
