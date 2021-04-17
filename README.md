@@ -7,6 +7,9 @@ Seashell has a custom "shortdir" command. The purpose is to reach the directory 
 
 "highlight is another custom seashell command. Highlight command takes a word-color pair and a text file as an  input. For each instance of the word appearing in the text file, the command prints the line where the word appears and highlights the word with that color. The colors can be one of the r (red), g (green), or b (blue) colors.
 
+<img width="860" alt="Screen Shot 2021-04-17 at 20 24 06" src="https://user-images.githubusercontent.com/51910678/115121407-40cfe800-9fbb-11eb-956b-d209c94e9811.png">
+
+
 "goodMorning" is another custom seashell command. This command takes a time specification and a music file as arguments and set an alarm to wake you up by playing the music using rhythmbox.
 
 "kdiff" is another command of seashell that can be used to compare two files in given paths. It has two modes. -a: the utility reads the input files as text files and compares them line-by-line. It prints the differing lines from each file and then prints the count of differing lines. -b: the utility reads the input files as binary files and compares them byte-by-byte. If two files are different, the utility prints a message about how many bytes are different between the files.
