@@ -12,6 +12,9 @@ Seashell has a custom "shortdir" command. The purpose is to reach the directory 
 
 "goodMorning" is another custom seashell command. This command takes a time specification and a music file as arguments and set an alarm to wake you up by playing the music using rhythmbox.
 
+<img width="494" alt="Screen Shot 2021-04-17 at 20 17 25" src="https://user-images.githubusercontent.com/51910678/115121424-64932e00-9fbb-11eb-9f81-f13ca0e6845e.png">
+
+
 "kdiff" is another command of seashell that can be used to compare two files in given paths. It has two modes. -a: the utility reads the input files as text files and compares them line-by-line. It prints the differing lines from each file and then prints the count of differing lines. -b: the utility reads the input files as binary files and compares them byte-by-byte. If two files are different, the utility prints a message about how many bytes are different between the files.
 
 
@@ -19,6 +22,7 @@ Seashell has a custom "shortdir" command. The purpose is to reach the directory 
 
 
 "siri" is another command that takes a questions to get a weather report and start the chronometer.
+
 <img width="896" alt="Screen Shot 2021-04-17 at 20 24 50" src="https://user-images.githubusercontent.com/51910678/115121372-141bd080-9fbb-11eb-85e4-a0dc83568e0e.png">
 
 <img width="890" alt="Screen Shot 2021-04-17 at 20 25 27" src="https://user-images.githubusercontent.com/51910678/115121391-2990fa80-9fbb-11eb-9215-80f91555f02f.png">
